@@ -1,0 +1,3 @@
+Anomaly detection
+the task that defines normal behavior falling within a certain range and identifies every other behavior as an anomaly 
+and thereby a potential failure
